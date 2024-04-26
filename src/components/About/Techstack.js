@@ -9,14 +9,13 @@ import {
   DiPython,
   DiGit,
   DiJava,
-  DiExpressJs
+ 
 } from "react-icons/di";
 import {
   SiRedux,
   SiFirebase,
   SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
+ 
   SiExpress
 } from "react-icons/si";
 
